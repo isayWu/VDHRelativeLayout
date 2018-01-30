@@ -3,11 +3,9 @@
  
 ## 控件描述：
  VDHRelativeLayout继承自RelativeLayout，通过ViewDragHelper支持子view拖动。也可以指定某些子view不支持拖动。
- 
-## 设置指定id对应的view不可移动：
-```public void setNoCaptureIds(List<Integer> ids) {
-	
-}```
+
+## 设置不支持拖动的view:
+ ```public void setNoCaptureIds(List<Integer> ids)```
  
 ## 使用方法：
 1.  将VDHRelativeLayout.java下载，并拷贝到自己的工程项目
