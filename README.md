@@ -2,8 +2,9 @@
 一个支持指定子view拖动的RelativeLayout封装。
  
 ## 控件描述：
- VDHRelativeLayout继承自RelativeLayout，通过ViewDragHelper支持子view拖动。也可以指定某些子view不支持拖动。
- <br>和子View点击事件不冲突。
+ VDHRelativeLayout继承自RelativeLayout，通过ViewDragHelper支持子view拖动。
+ <br>也可以设置某些子view不支持拖动。
+ <br>且不影响子Viewd的点击事件。
 
 ## 设置不支持拖动的view:
  ```public void setNoCaptureIds(List<Integer> ids)```
