@@ -1,10 +1,10 @@
 # VDHRelativeLayout
 一个支持指定子view拖动的RelativeLayout封装。
  
-# 控件描述：
+## 控件描述：
  VDHRelativeLayout继承自RelativeLayout，通过ViewDragHelper支持子view拖动。也可以指定某些子view不支持拖动。
  
-# 使用方法：
+## 使用方法：
 1.  将VDHRelativeLayout.java下载，并拷贝到自己的工程项目
 1.  然后就可以在布局文件中直接使用，如下。
  ```
