@@ -1,14 +1,15 @@
 # VDHRelativeLayout
 一个支持指定子view拖动的RelativeLayout封装。
  
-**控件描述**：
- VDHRelativeLayout继承自RelativeLayout，实现了ViewDragHelper方法，支持子view拖动。也可以指定某些子view不支持拖动。
+# 控件描述：
+ VDHRelativeLayout继承自RelativeLayout，通过ViewDragHelper支持子view拖动。也可以指定某些子view不支持拖动。
  
-**使用方法**：
+# 使用方法：
 1.  将VDHRelativeLayout.java下载，并拷贝到自己的工程项目
 1.  然后就可以在布局文件中直接使用，如下。
  
-     <two.isay.com.simpletext.scale.VDHRelativeLayout
+ 
+`    <two.isay.com.simpletext.scale.VDHRelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -26,7 +27,7 @@
             android:text="这是一个TextView"
             android:background="#f00000" />
 
-    </two.isay.com.simpletext.scale.VDHRelativeLayout>
+    </two.isay.com.simpletext.scale.VDHRelativeLayout>`
 
 注意：two.isay.com.simpletext.scale.VDHRelativeLayout是我自己项目的包名。
  
