@@ -8,7 +8,7 @@
 1.  将VDHRelativeLayout.java下载，并拷贝到自己的工程项目
 1.  然后就可以在布局文件中直接使用，如下。
  
-    <com.isay.simpletext.scale.VDHRelativeLayout
+<pre><code>    <com.isay.simpletext.scale.VDHRelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -26,7 +26,7 @@
             android:text="这是一个TextView"
             android:background="#f00000" />
 
-    </com.isay.simpletext.scale.VDHRelativeLayout>
+    </com.isay.simpletext.scale.VDHRelativeLayout></code></pre>
 
 注意：two.isay.com.simpletext.scale.VDHRelativeLayout是我自己项目的包名。
  
