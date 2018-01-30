@@ -28,5 +28,5 @@
 
     </com.isay.simpletext.scale.VDHRelativeLayout>```
 
-注意：two.isay.com.simpletext.scale.VDHRelativeLayout是我自己项目的包名。
+注意：com.isay.simpletext.scale.VDHRelativeLayout是我自己项目对应的包名。
  
