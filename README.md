@@ -8,6 +8,7 @@
  1、将VDHRelativeLayout.java下载，并拷贝到自己的工程项目
  2、然后就可以在布局文件中直接使用
  如：
+ 
      <two.isay.com.simpletext.scale.VDHRelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
